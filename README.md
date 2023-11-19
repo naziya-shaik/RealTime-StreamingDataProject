@@ -1,4 +1,7 @@
 # Real-Time Data Streaming using Apache Nifi, AWS, Snowpipe, Stream & Task:
+
+** project Overview:**
+
 	The "Real-Time Data Streaming" project is a sophisticated solution designed to streamline the continuous flow and processing of data in real-time. Combining innovative technologies such as Faker, Docker, Apache NiFi, Zookeeper, AWS, Snowpipe, Stream, and incorporating Slowly Changing Dimensions (SCD) strategies (SCD1 and SCD2), this project addresses the need for efficient, scalable, and dynamic data streaming architectures.
  
 **1.Faker:**
