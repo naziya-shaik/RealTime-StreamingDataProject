@@ -1,11 +1,10 @@
-# RealTime-StreamingDataProject
 # **Real-Time Data Streaming using Apache Nifi, AWS, Snowpipe, Stream & Task:**
 	The "Real-Time Data Streaming" project is a sophisticated solution designed to streamline the continuous flow and processing of data in real-time. Combining innovative technologies such as Faker, Docker, Apache NiFi, Zookeeper, AWS, Snowpipe, Stream, and incorporating Slowly Changing Dimensions (SCD) strategies (SCD1 and SCD2), this project addresses the need for efficient, scalable, and dynamic data streaming architectures.
  
-# **1.Faker:**
+**1.Faker:**
 The Faker library in Python is utilized to generate realistic, synthetic data. The library allows you to create random data such as names, addresses, email addresses, street, and much more information about customer. 
 
-#2. Docker:
+**2. Docker:**
 Docker containers play a crucial role in encapsulating and deploying various project components. This approach enhances portability, scalability, and consistency across different environments.
 	Docker is a platform and a set of tools designed to facilitate the creation, deployment, and execution of applications within lightweight, portable, and self-sufficient containers.
  
