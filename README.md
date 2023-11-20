@@ -61,7 +61,8 @@ c)	PutS3Object:
 
 The inclusion of SCD1 and SCD2 strategies accommodates changes in both synthetic and authentic data, offering flexibility and accuracy in tracking real-time updates and historical changes.
 
-**9)TO stop all programs at Docker:
+**9)TO stop all programs at Docker:**
+
 sudo systemctl stop docker
 
 
