@@ -3,6 +3,7 @@ use database scd_demo;
 create schema if not exists scd2;
 use schema scd2;
 show tables;
+
 # crreating customer table
 create or replace table customer (
      customer_id number,
