@@ -51,6 +51,7 @@ c)	PutS3Object:
 •	Any changes to customer data in real time will be captured automatically.
 
 **8.Target Table1 & Target Table2:**
+
 **a)Slowly Changing Dimension Type 1 (SCD1):**
 
 •	Specifically, SCD1 addresses the customer data overwritten with new values. In SCD1, when a change occurs in a dimension attribute, the existing record is updated with the new values, effectively overwriting the previous state. This means that only the latest version of the data is retained into the Actual table.
